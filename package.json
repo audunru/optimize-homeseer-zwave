@@ -11,6 +11,7 @@
   },
   "scripts": {
     "optimize": "node src/index.js",
-    "full": "node src/index.js full"
+    "full": "node src/index.js full",
+    "postinstall": "cp .env.example .env"
   }
 }

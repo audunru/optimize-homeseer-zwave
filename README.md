@@ -6,7 +6,6 @@ Optimize a Homeseer ZWave network from the command line.
 
 ```bash
 yarn install
-cp .env.example .env
 ```
 
 Set your HOST, CONTROLLER and ID in the .env file.
